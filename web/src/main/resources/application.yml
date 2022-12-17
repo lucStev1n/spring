@@ -1,6 +1,4 @@
 spring:
-  rabbitmq:
-    password: password123
-    host: 43.142.238.100
-    port: 5672
-    username: user
+  profiles:
+    active: dev
+    include: mq, sql

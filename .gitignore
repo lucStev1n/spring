@@ -47,7 +47,7 @@ out/
 *.war
 *.zip
 *.rar
-
+*.bat
 application-*.yml
 #exclude
 !application-template.yml

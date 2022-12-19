@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<forms version="2.1">
+    <formExport>
+        <summary id="2870970443080945588" name="formmain_0661"/>
+        <definitions>
+            <column id="field0029" type="4" name="业务版块" isNullable="false" length="20"/>
+            <column id="field0008" type="0" name="流水号" isNullable="false" length="100"/>
+            <column id="field0009" type="0" name="申请人员" isNullable="false" length="20"/>
+            <column id="field0010" type="0" name="申请部门" isNullable="false" length="20"/>
+            <column id="field0038" type="3" name="立项日期" isNullable="false" length="255"/>
+            <column id="field0016" type="0" name="项目编号" isNullable="false" length="100"/>
+            <column id="field0015" type="0" name="项目名称" isNullable="false" length="500"/>
+            <column id="field0039" type="4" name="合同金额" isNullable="false" length="22"/>
+            <column id="field0040" type="0" name="客户名称" isNullable="false" length="100"/>
+            <column id="field0037" type="4" name="合同归属" isNullable="false" length="20"/>
+            <column id="field0031" type="4" name="合同类型" isNullable="false" length="20"/>
+            <column id="field0032" type="4" name="签收单要求" isNullable="false" length="20"/>
+            <column id="field0028" type="0" name="设计主管" isNullable="false" length="20"/>
+            <column id="field0019" type="0" name="主管销售员" isNullable="false" length="20"/>
+            <column id="field0017" type="3" name="交货日期" isNullable="false" length="255"/>
+            <column id="field0026" type="0" name="软件号" isNullable="false" length="100"/>
+            <column id="field0021" type="4" name="是否特批立项" isNullable="false" length="20"/>
+            <column id="field0027" type="4" name="是否包含现场安装业务" isNullable="false" length="20"/>
+            <column id="field0033" type="0" name="立柱颜色" isNullable="false" length="100"/>
+            <column id="field0034" type="0" name="围网颜色" isNullable="false" length="100"/>
+            <column id="field0035" type="0" name="门柱颜色" isNullable="false" length="100"/>
+            <column id="field0036" type="0" name="门网颜色" isNullable="false" length="100"/>
+            <column id="field0024" type="0" name="喷塑颜色补充说明" isNullable="false" length="2000"/>
+            <column id="field0025" type="0" name="签收单附件" isNullable="false" length="20"/>
+            <column id="field0012" type="0" name="停用客户名称" isNullable="false" length="100"/>
+            <column id="field0030" type="4" name="停用合同归属" isNullable="false" length="20"/>
+            <column id="field0018" type="0" name="停用设计主管" isNullable="false" length="20"/>
+            <column id="field0011" type="2" name="停用立项日期" isNullable="false" length="255"/>
+            <column id="field0041" type="4" name="标准价格率" isNullable="false" length="20"/>
+            <column id="field0042" type="4" name="发货款金额" isNullable="false" length="22"/>
+            <column id="field0043" type="4" name="到货款金额" isNullable="false" length="22"/>
+            <column id="field0044" type="4" name="质保金金额" isNullable="false" length="22"/>
+            <column id="field0045" type="4" name="预付款金额" isNullable="false" length="22"/>
+        </definitions>
+        <values>
+            <column name="业务版块">
+                <value><![CDATA[
+        1
+    ]]></value>
+      </column>
+      <column name="流水号">
+        <value></value>
+      </column>
+      <column name="申请人员">
+        <value></value>
+      </column>
+      <column name="申请部门">
+        <value></value>
+      </column>
+      <column name="立项日期">
+        <value><![CDATA[
+        2022-11-24
+    ]]></value>
+      </column>
+      <column name="项目编号">
+        <value><![CDATA[AAS2201749
+    ]]></value>
+      </column>
+      <column name="项目名称">
+        <value><![CDATA[上海嘉意围栏项目32
+    ]]></value>
+      </column>
+      <column name="合同金额">
+        <value><![CDATA[
+        10700.00
+    ]]></value>
+      </column>
+      <column name="客户名称">
+        <value><![CDATA[嘉意机床（上海）有限公司
+    ]]></value>
+      </column>
+      <column name="合同归属">
+        <value><![CDATA[
+        0
+    ]]></value>
+      </column>
+      <column name="合同类型">
+        <value><![CDATA[
+        1
+    ]]></value>
+      </column>
+      <column name="签收单要求">
+        <value><![CDATA[
+        0
+    ]]></value>
+      </column>
+      <column name="设计主管">
+        <value><![CDATA[
+        -615373179073901665
+    ]]></value>
+      </column>
+      <column name="主管销售员">
+        <value><![CDATA[
+        2546556241659970672
+    ]]></value>
+      </column>
+      <column name="交货日期">
+        <value><![CDATA[
+        2022-12-12
+    ]]></value>
+      </column>
+      <column name="软件号">
+        <value><![CDATA[
+        53582
+    ]]></value>
+      </column>
+      <column name="是否特批立项">
+        <value><![CDATA[
+        2
+    ]]></value>
+      </column>
+      <column name="是否包含现场安装业务">
+        <value><![CDATA[
+        2
+    ]]></value>
+      </column>
+      <column name="立柱颜色">
+        <value></value>
+      </column>
+      <column name="围网颜色">
+        <value></value>
+      </column>
+      <column name="门柱颜色">
+        <value></value>
+      </column>
+      <column name="门网颜色">
+        <value></value>
+      </column>
+      <column name="喷塑颜色补充说明">
+        <value></value>
+      </column>
+      <column name="签收单附件">
+        <value><![CDATA[
+        786236058963365283
+    ]]></value>
+      </column>
+      <column name="停用客户名称">
+        <value></value>
+      </column>
+      <column name="停用合同归属">
+        <value></value>
+      </column>
+      <column name="停用设计主管">
+        <value></value>
+      </column>
+      <column name="停用立项日期">
+        <value></value>
+      </column>
+      <column name="标准价格率">
+        <value></value>
+      </column>
+      <column name="发货款金额">
+        <value></value>
+      </column>
+      <column name="到货款金额">
+        <value></value>
+      </column>
+      <column name="质保金金额">
+        <value></value>
+      </column>
+      <column name="预付款金额">
+        <value></value>
+      </column>
+    </values>
+    <subForms/>
+  </formExport>
+  </forms>

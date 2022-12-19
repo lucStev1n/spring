@@ -42,7 +42,7 @@ temp
 
 target/
 out/
-
+test/*.java
 *.jar
 *.war
 *.zip
